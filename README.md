@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [1364-tuple-with-same-product](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1876-map-of-highest-peak](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2145-grid-game](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2145-grid-game) |
 ## Breadth-First Search
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -126,10 +129,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 ## Stack
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/3447-clear-digits) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
