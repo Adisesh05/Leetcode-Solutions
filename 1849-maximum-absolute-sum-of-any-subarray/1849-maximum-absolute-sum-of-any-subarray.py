@@ -1,3 +1,4 @@
 class Solution:
     def maxAbsoluteSum(self, nums: List[int]) -> int:
-        return max(0, max(K:=list(accumulate(nums))))-min(0, min(K))
+        sums = list(accumulate(nums, initial=0)) # get prefix sums
+        return max(sums) - min(sums)
