@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0854-making-a-large-island](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
