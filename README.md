@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0854-making-a-large-island](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
