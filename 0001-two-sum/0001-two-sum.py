@@ -6,4 +6,4 @@ class Solution:
             if c in a:
                 return([a[c],i])
                 break
-            a[n]=i
+            a[n] = i
