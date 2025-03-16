@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -269,5 +270,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
