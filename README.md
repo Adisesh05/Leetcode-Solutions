@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
@@ -331,4 +332,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
