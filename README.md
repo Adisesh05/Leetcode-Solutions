@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/3447-clear-digits) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [1170-shortest-common-supersequence](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
