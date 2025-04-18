@@ -6,5 +6,5 @@ class Solution:
         for r in range(len(prices)):
             if prices[L] > prices[r]:
                 L = r
-            pro = max(pro,abs(prices[r] - prices[L]))
+            pro = max(pro,prices[r] - prices[L])
         return pro
