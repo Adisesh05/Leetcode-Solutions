@@ -5,6 +5,6 @@ class Solution:
 
         for r in range(len(prices)):
             while prices[L] > prices[r]:
-                L = r
+                L += 1
             pro = max(pro,abs(prices[r] - prices[L]))
         return pro
