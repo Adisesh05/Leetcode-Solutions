@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Quickselect
 |  |
 | ------- |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3643-zero-array-transformation-ii](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
