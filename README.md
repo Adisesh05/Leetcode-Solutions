@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0605-can-place-flowers](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0854-making-a-large-island](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Adisesh05/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
